@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>SuperWallet</title>
+  <title>SuperWallet Yo!</title>
   <script type="text/javascript" src="assets/js/bootstrap.js"></script>
   <script type="text/javascript" src="assets/js/tab.js"></script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
